@@ -18,6 +18,7 @@
      ```ALTER ROLE username CREATEDB;```
 
 5. Exit postgres CLI:
+
       ```\q```
 
 6. Start a session with the user:
