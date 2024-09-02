@@ -17,21 +17,24 @@
    
      ```ALTER ROLE username CREATEDB;```
 
-5. Start a session with the user:
+5. Exit postgres CLI:
+      ```\q```
+
+6. Start a session with the user:
 
    ```psql postgres -U username```
-6. Create a database:
+7. Create a database:
    
    ```CREATE DATABASE database_name;```
 
-7. Connect with the database:
+8. Connect with the database:
 
    ```\c database_name```
-8. Test by adding a table:
+9. Test by adding a table:
 
    ```CREATE TABLE profile(id int PRIMARY KEY, name VARCHAR(40));```
 
-9. Check the table list:
+10. Check the table list:
 
    ```\d```
 
