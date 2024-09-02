@@ -15,7 +15,7 @@
    
     ```CREATE ROLE username WITH LOGIN PASSWORD 'password';```
    
-     ```ALTER ROLE root CREATEDB;```
+     ```ALTER ROLE username CREATEDB;```
 
 5. Start a session with the user:
 
