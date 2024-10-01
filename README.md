@@ -39,5 +39,5 @@
 
    ```\d```
 
-Congrates! you've did it.👏😊
+Congrates! you did it.👏😊
    
